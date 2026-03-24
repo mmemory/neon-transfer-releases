@@ -1,0 +1,35 @@
+{
+  "version": "0.1.1",
+  "notes": "",
+  "pub_date": "2026-03-24T02:13:53.728Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDVSYSszcDBVRGRCV0tPdU9FQlJqNS9YendnRkxpcFlVOWw5TnpaNThWRWkydXY4ZnJPQ0xPS0NOd0VHZS80L2JWVUtUUmJjeGlqTTJYMGR4d1hLTjd1YlBLM01JcFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzE3NTgzCWZpbGU6TmVvbiBUcmFuc2Zlci5hcHAudGFyLmd6CjY3UHVINnBCTUpwbTdMdWdMSTYwN3lWUmo1T0JCQjVBV21ING5YZHhDT3VyUzkvYmpCTjJmemFQVisvY2p5Z05STytYNk16VmtwNXpicVlZR0d2YkJBPT0K",
+      "url": "https://mmemory.github.io/neon-transfer-releases/Neon.Transfer_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDVSYSszcDBVRGRCV0tPdU9FQlJqNS9YendnRkxpcFlVOWw5TnpaNThWRWkydXY4ZnJPQ0xPS0NOd0VHZS80L2JWVUtUUmJjeGlqTTJYMGR4d1hLTjd1YlBLM01JcFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzE3NTgzCWZpbGU6TmVvbiBUcmFuc2Zlci5hcHAudGFyLmd6CjY3UHVINnBCTUpwbTdMdWdMSTYwN3lWUmo1T0JCQjVBV21ING5YZHhDT3VyUzkvYmpCTjJmemFQVisvY2p5Z05STytYNk16VmtwNXpicVlZR0d2YkJBPT0K",
+      "url": "https://mmemory.github.io/neon-transfer-releases/Neon.Transfer_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDVSYSszcDBVRFhTVEJyaGtsWEI5dlJkTG5INGwxQTRZM3l3T1l6WTlJUnhFL1FaWGVhWGpJQTdnaU45d2RKOFV6aDhrQnpiM25idTNaZGUvS1dDdGVoc3hucnczZmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzE3NjQ4CWZpbGU6TmVvbiBUcmFuc2Zlci5hcHAudGFyLmd6CkhpZUo5TjhndmhlY3BmVnZuRTBUTUhxSC95dE9TQ2ErYXJ5aGpHTGIzcmFiMlJ1cTBlU2ZQOTZjcHE2cUliKy9Va2gxYkgwUXc4SytMNDZBQnZqOENBPT0K",
+      "url": "https://mmemory.github.io/neon-transfer-releases/Neon.Transfer_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDVSYSszcDBVRFhTVEJyaGtsWEI5dlJkTG5INGwxQTRZM3l3T1l6WTlJUnhFL1FaWGVhWGpJQTdnaU45d2RKOFV6aDhrQnpiM25idTNaZGUvS1dDdGVoc3hucnczZmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzE3NjQ4CWZpbGU6TmVvbiBUcmFuc2Zlci5hcHAudGFyLmd6CkhpZUo5TjhndmhlY3BmVnZuRTBUTUhxSC95dE9TQ2ErYXJ5aGpHTGIzcmFiMlJ1cTBlU2ZQOTZjcHE2cUliKy9Va2gxYkgwUXc4SytMNDZBQnZqOENBPT0K",
+      "url": "https://mmemory.github.io/neon-transfer-releases/Neon.Transfer_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDVSYSszcDBVRFNHQzJoSjVEcTQ0cURzbnk5TS9iT21hOTN0ZU9pcnBsc2dkL0hLOVhGUGFMNmpsZFZnYnRwRU8xUkxJREtlTmRDdko1a2U1djkrV0JNM3htTitCb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzE4NDI5CWZpbGU6TmVvbiBUcmFuc2Zlcl8wLjEuMV94NjRfZW4tVVMubXNpCjdvRkdaUFF2dUxMdkNsaldzbFdZK2p1UituWm94UjlGM1JFRFJVTjl2bGF4NFgxOTRCN3M0dktzRWFsU2xpQ2lzN3gybDlERVFCWjdseVEvbjc4TEJRPT0K",
+      "url": "https://mmemory.github.io/neon-transfer-releases/Neon.Transfer_0.1.1_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDVSYSszcDBVRFNHQzJoSjVEcTQ0cURzbnk5TS9iT21hOTN0ZU9pcnBsc2dkL0hLOVhGUGFMNmpsZFZnYnRwRU8xUkxJREtlTmRDdko1a2U1djkrV0JNM3htTitCb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzE4NDI5CWZpbGU6TmVvbiBUcmFuc2Zlcl8wLjEuMV94NjRfZW4tVVMubXNpCjdvRkdaUFF2dUxMdkNsaldzbFdZK2p1UituWm94UjlGM1JFRFJVTjl2bGF4NFgxOTRCN3M0dktzRWFsU2xpQ2lzN3gybDlERVFCWjdseVEvbjc4TEJRPT0K",
+      "url": "https://mmemory.github.io/neon-transfer-releases/Neon.Transfer_0.1.1_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDVSYSszcDBVRGNVZ05LWnhhM0JZekVxVXdBMllJODgvWWE2VlFlYzd4T0syaDFwRzM3bmdqRC95cWxRUVlLaklpNXRTWTdJcm1pOE1zdVUrMTY2cHJuQ1NzWW54UGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzE4NDI5CWZpbGU6TmVvbiBUcmFuc2Zlcl8wLjEuMV94NjQtc2V0dXAuZXhlClljN1p3RlpXc21VK0huWGlSSXRTOTV0SS9PS1JmUDIzNTY3K2srM1VEM240MEY5WUp5U3ZaZDBYdlp5cE5jS2lPQkFqb3h1NWx3MUJQV3hZSzFGSUNRPT0K",
+      "url": "https://mmemory.github.io/neon-transfer-releases/Neon.Transfer_0.1.1_x64-setup.exe"
+    }
+  }
+}
